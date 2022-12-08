@@ -13,6 +13,7 @@
         <label>bank account</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_snc_direct_dep_0_bank_account</name>
+        <number_ref display_value="BAN">175b29df342155107f444466fb69d2eb</number_ref>
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
@@ -21,14 +22,14 @@
         <sys_created_by>quentin.carton@servicenow.com</sys_created_by>
         <sys_created_on>2022-08-22 17:42:05</sys_created_on>
         <sys_id>d581f35c87a15d1093d9fd55dabb3566</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>bank account</sys_name>
         <sys_package display_value="Direct Deposit" source="x_snc_direct_dep_0">f1c0ff9c87615d1093d9fd55dabb3501</sys_package>
         <sys_policy/>
         <sys_scope display_value="Direct Deposit">f1c0ff9c87615d1093d9fd55dabb3501</sys_scope>
         <sys_update_name>sys_db_object_d581f35c87a15d1093d9fd55dabb3566</sys_update_name>
-        <sys_updated_by>quentin.carton@servicenow.com</sys_updated_by>
-        <sys_updated_on>2022-08-23 16:26:28</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-31 15:38:04</sys_updated_on>
         <update_access>true</update_access>
         <user_role/>
         <ws_access>true</ws_access>
