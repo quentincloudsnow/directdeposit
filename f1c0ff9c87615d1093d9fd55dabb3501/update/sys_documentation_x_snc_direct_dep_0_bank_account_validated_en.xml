@@ -11,7 +11,6 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>quentin.carton@servicenow.com</sys_created_by>
             <sys_created_on>2022-08-23 16:26:28</sys_created_on>
-            <sys_id>53c9a47887e1dd1093d9fd55dabb35ee</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Validated</sys_name>
             <sys_package display_value="Direct Deposit" source="x_snc_direct_dep_0">f1c0ff9c87615d1093d9fd55dabb3501</sys_package>

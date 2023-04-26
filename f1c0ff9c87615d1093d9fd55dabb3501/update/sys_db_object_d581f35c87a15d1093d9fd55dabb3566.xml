@@ -9,6 +9,7 @@
         <create_access>true</create_access>
         <create_access_controls>false</create_access_controls>
         <delete_access>false</delete_access>
+        <is_document_table>false</is_document_table>
         <is_extendable>true</is_extendable>
         <label>bank account</label>
         <live_feed_enabled>false</live_feed_enabled>

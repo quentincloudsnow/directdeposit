@@ -2,13 +2,15 @@
     <sc_cat_item_producer action="INSERT_OR_UPDATE">
         <access_type>restricted</access_type>
         <active>true</active>
+        <additional_review>false</additional_review>
         <allow_edit>false</allow_edit>
         <availability>on_desktop</availability>
         <billable>false</billable>
         <can_cancel>false</can_cancel>
         <category/>
-        <checked_out/>
+        <checked_out>false</checked_out>
         <cost>0</cost>
+        <create_universal_request>false</create_universal_request>
         <custom_cart/>
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
         <delivery_plan_script/>
@@ -45,7 +47,7 @@
         <omit_price>false</omit_price>
         <order>0</order>
         <ordered_item_link/>
-        <owner display_value="Quentin Carton">944bdf9887291d1093d9fd55dabb3594</owner>
+        <owner display_value="Quentin Carton">3e9a0d6387de89506c4deb5d0ebb35fe</owner>
         <picture>d213b35c87255d1093d9fd55dabb350a</picture>
         <post_insert_script><![CDATA[/**
 * This script is executed after the record is generated. 
@@ -82,7 +84,7 @@
         <short_description>Gather Banking information from employee to setup their direct deposit</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
-        <state/>
+        <state>published</state>
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>quentin.carton@servicenow.com</sys_created_by>
         <sys_created_on>2022-08-22 17:46:38</sys_created_on>
@@ -132,6 +134,7 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>direct-deposit-active.png</file_name>
         <hash>b5c94894d15c447aab0ecc61d3a573f8289573a9c4b294ab50991ed509b73ba1</hash>
         <image_height/>

@@ -11,7 +11,6 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>quentin.carton@servicenow.com</sys_created_by>
             <sys_created_on>2022-08-22 17:44:41</sys_created_on>
-            <sys_id>4b127b9887e15d1093d9fd55dabb3510</sys_id>
             <sys_mod_count>3</sys_mod_count>
             <sys_name>Account Type</sys_name>
             <sys_package display_value="Direct Deposit" source="x_snc_direct_dep_0">f1c0ff9c87615d1093d9fd55dabb3501</sys_package>
